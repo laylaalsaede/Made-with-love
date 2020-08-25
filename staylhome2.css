@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+@font-face {
+  font-family: myFirstFont;
+  src: url(DINNextLTArabic-Regular-2.ttf);
+}
+@font-face {
+  font-family: myFirstFontlight;
+  src: url(DINNextLTArabic-UltraLight-1.ttf);
+}
+
+body {
+font-family: myFirstFont;   
+background-image: url(7847.jpg);
+  background-color: #f7f7f7;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 1500px 600px;
+  position: relative;
+}
+   
+ p{font-family: myFirstFontlight;}
+h3 {font-family: myFirstFont;}
+b{font-family: myFirstFont;}
+
+.bgimage{
+  background-color: white
+    background-size:100x 100x;
+    width: 100x;
+    height: 100vh;
+       
+}
+
+

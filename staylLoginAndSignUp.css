@@ -1,0 +1,10 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(DINNextLTArabic-Regular-2.ttf);
+}
+@font-face {
+  font-family: myFirstFontlight;
+  src: url(DINNextLTArabic-UltraLight-1.ttf);
+}
+div{
+    font-family: myFirstFont;}
